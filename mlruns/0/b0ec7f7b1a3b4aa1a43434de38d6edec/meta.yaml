@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b0ec7f7b1a3b4aa1a43434de38d6edec/artifacts
+end_time: 1748288975688
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0ec7f7b1a3b4aa1a43434de38d6edec
+run_name: stately-flea-887
+run_uuid: b0ec7f7b1a3b4aa1a43434de38d6edec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748288975553
+status: 3
+tags: []
+user_id: Ali Computers

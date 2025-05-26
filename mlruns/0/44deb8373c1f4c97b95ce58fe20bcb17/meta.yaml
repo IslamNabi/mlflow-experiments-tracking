@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/44deb8373c1f4c97b95ce58fe20bcb17/artifacts
+end_time: 1748291704394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44deb8373c1f4c97b95ce58fe20bcb17
+run_name: magnificent-calf-904
+run_uuid: 44deb8373c1f4c97b95ce58fe20bcb17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748291703916
+status: 3
+tags: []
+user_id: Ali Computers
