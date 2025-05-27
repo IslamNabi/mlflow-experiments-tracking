@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9782a6d0f18644efa4e122bb4d694ea1/artifacts
+end_time: 1748339771183
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9782a6d0f18644efa4e122bb4d694ea1
+run_name: mercurial-fly-700
+run_uuid: 9782a6d0f18644efa4e122bb4d694ea1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748339770021
+status: 3
+tags: []
+user_id: Ali Computers
