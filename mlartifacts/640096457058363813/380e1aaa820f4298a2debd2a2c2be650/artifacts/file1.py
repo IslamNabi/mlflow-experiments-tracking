@@ -57,4 +57,4 @@ with mlflow.start_run():
     mlflow.set_tags({"Author": 'Islam Nabi', "Project": 'Wine Classification'})
 
     # log model 
-    mlflow.sklearn.log_model(rf, "Random-Forest-Classifier")
+    mlflow.sklearn.load_model(rf, "Random-Forest-Classifier")

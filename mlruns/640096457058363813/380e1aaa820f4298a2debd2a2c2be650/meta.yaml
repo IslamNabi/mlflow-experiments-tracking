@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/640096457058363813/380e1aaa820f4298a2debd2a2c2be650/artifacts
+deleted_time: 1748456312939
+end_time: 1748456224343
+entry_point_name: ''
+experiment_id: '640096457058363813'
+lifecycle_stage: deleted
+run_id: 380e1aaa820f4298a2debd2a2c2be650
+run_name: stately-crane-362
+run_uuid: 380e1aaa820f4298a2debd2a2c2be650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748456221690
+status: 4
+tags: []
+user_id: Ali Computers

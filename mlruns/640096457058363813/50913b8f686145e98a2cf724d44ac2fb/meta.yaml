@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/640096457058363813/50913b8f686145e98a2cf724d44ac2fb/artifacts
+end_time: 1748456285058
+entry_point_name: ''
+experiment_id: '640096457058363813'
+lifecycle_stage: active
+run_id: 50913b8f686145e98a2cf724d44ac2fb
+run_name: likeable-ant-572
+run_uuid: 50913b8f686145e98a2cf724d44ac2fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748456255449
+status: 3
+tags: []
+user_id: Ali Computers
