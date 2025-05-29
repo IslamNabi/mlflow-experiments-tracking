@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748546009953
+current_stage: None
+description: ''
+last_updated_timestamp: 1748546009953
+name: islam-model-1
+run_id: a9ad74440deb4a2c87307048d0a4d8d2
+run_link: ''
+source: file:///E:/MLOps/mlflow-experiments-tracking/mlruns/359867364004316960/a9ad74440deb4a2c87307048d0a4d8d2/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///E:/MLOps/mlflow-experiments-tracking/mlruns/359867364004316960/a9ad74440deb4a2c87307048d0a4d8d2/artifacts/random_forest
+user_id: null
+version: 1
