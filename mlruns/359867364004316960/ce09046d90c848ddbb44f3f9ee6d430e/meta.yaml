@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/mlflow-experiments-tracking/mlruns/359867364004316960/ce09046d90c848ddbb44f3f9ee6d430e/artifacts
+end_time: 1748544287878
+entry_point_name: ''
+experiment_id: '359867364004316960'
+lifecycle_stage: active
+run_id: ce09046d90c848ddbb44f3f9ee6d430e
+run_name: crawling-frog-751
+run_uuid: ce09046d90c848ddbb44f3f9ee6d430e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748544287791
+status: 3
+tags: []
+user_id: Ali Computers

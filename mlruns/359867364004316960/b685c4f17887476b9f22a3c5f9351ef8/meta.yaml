@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/mlflow-experiments-tracking/mlruns/359867364004316960/b685c4f17887476b9f22a3c5f9351ef8/artifacts
+end_time: 1748544718429
+entry_point_name: ''
+experiment_id: '359867364004316960'
+lifecycle_stage: active
+run_id: b685c4f17887476b9f22a3c5f9351ef8
+run_name: lyrical-tern-714
+run_uuid: b685c4f17887476b9f22a3c5f9351ef8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748544718297
+status: 3
+tags: []
+user_id: Ali Computers

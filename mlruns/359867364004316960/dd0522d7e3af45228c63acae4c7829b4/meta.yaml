@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/mlflow-experiments-tracking/mlruns/359867364004316960/dd0522d7e3af45228c63acae4c7829b4/artifacts
+end_time: 1748544288014
+entry_point_name: ''
+experiment_id: '359867364004316960'
+lifecycle_stage: active
+run_id: dd0522d7e3af45228c63acae4c7829b4
+run_name: secretive-squid-748
+run_uuid: dd0522d7e3af45228c63acae4c7829b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748544287894
+status: 3
+tags: []
+user_id: Ali Computers

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/mlflow-experiments-tracking/mlruns/359867364004316960/a67c77dd4d7d4e3ab2f327d9e32967af/artifacts
+end_time: 1748544718206
+entry_point_name: ''
+experiment_id: '359867364004316960'
+lifecycle_stage: active
+run_id: a67c77dd4d7d4e3ab2f327d9e32967af
+run_name: bright-kite-517
+run_uuid: a67c77dd4d7d4e3ab2f327d9e32967af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748544718057
+status: 3
+tags: []
+user_id: Ali Computers

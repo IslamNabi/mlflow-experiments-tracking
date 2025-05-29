@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/mlflow-experiments-tracking/mlruns/359867364004316960/d3551adab0f34731a75470a39c151653/artifacts
+end_time: 1748544310162
+entry_point_name: ''
+experiment_id: '359867364004316960'
+lifecycle_stage: active
+run_id: d3551adab0f34731a75470a39c151653
+run_name: defiant-fawn-213
+run_uuid: d3551adab0f34731a75470a39c151653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748544280250
+status: 3
+tags: []
+user_id: Ali Computers

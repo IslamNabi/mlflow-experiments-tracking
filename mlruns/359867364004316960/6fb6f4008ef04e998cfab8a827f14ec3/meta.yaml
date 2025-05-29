@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/mlflow-experiments-tracking/mlruns/359867364004316960/6fb6f4008ef04e998cfab8a827f14ec3/artifacts
+end_time: 1748544287066
+entry_point_name: ''
+experiment_id: '359867364004316960'
+lifecycle_stage: active
+run_id: 6fb6f4008ef04e998cfab8a827f14ec3
+run_name: capricious-cow-531
+run_uuid: 6fb6f4008ef04e998cfab8a827f14ec3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748544286960
+status: 3
+tags: []
+user_id: Ali Computers

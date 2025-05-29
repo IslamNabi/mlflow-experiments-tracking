@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/mlflow-experiments-tracking/mlruns/359867364004316960/b639edc28a8c4b95b70cce674a53f797/artifacts
+end_time: 1748544288117
+entry_point_name: ''
+experiment_id: '359867364004316960'
+lifecycle_stage: active
+run_id: b639edc28a8c4b95b70cce674a53f797
+run_name: sassy-crane-325
+run_uuid: b639edc28a8c4b95b70cce674a53f797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748544288031
+status: 3
+tags: []
+user_id: Ali Computers

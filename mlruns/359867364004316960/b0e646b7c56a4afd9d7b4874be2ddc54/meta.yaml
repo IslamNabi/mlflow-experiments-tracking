@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/mlflow-experiments-tracking/mlruns/359867364004316960/b0e646b7c56a4afd9d7b4874be2ddc54/artifacts
+end_time: 1748544287586
+entry_point_name: ''
+experiment_id: '359867364004316960'
+lifecycle_stage: active
+run_id: b0e646b7c56a4afd9d7b4874be2ddc54
+run_name: bright-hound-353
+run_uuid: b0e646b7c56a4afd9d7b4874be2ddc54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748544287491
+status: 3
+tags: []
+user_id: Ali Computers

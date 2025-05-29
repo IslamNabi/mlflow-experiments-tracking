@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/mlflow-experiments-tracking/mlruns/359867364004316960/6846170a88cf46c48194809c73ebc3e7/artifacts
+end_time: 1748544287685
+entry_point_name: ''
+experiment_id: '359867364004316960'
+lifecycle_stage: active
+run_id: 6846170a88cf46c48194809c73ebc3e7
+run_name: adaptable-seal-358
+run_uuid: 6846170a88cf46c48194809c73ebc3e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748544287595
+status: 3
+tags: []
+user_id: Ali Computers

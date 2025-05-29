@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/mlflow-experiments-tracking/mlruns/359867364004316960/33f6da6244764b0fa94103323ef8bd61/artifacts
+end_time: 1748544287167
+entry_point_name: ''
+experiment_id: '359867364004316960'
+lifecycle_stage: active
+run_id: 33f6da6244764b0fa94103323ef8bd61
+run_name: placid-koi-670
+run_uuid: 33f6da6244764b0fa94103323ef8bd61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748544287078
+status: 3
+tags: []
+user_id: Ali Computers

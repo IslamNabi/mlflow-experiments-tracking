@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/mlflow-experiments-tracking/mlruns/359867364004316960/aafc8bbe2df2439ea072f2464bcaa512/artifacts
+end_time: 1748544718632
+entry_point_name: ''
+experiment_id: '359867364004316960'
+lifecycle_stage: active
+run_id: aafc8bbe2df2439ea072f2464bcaa512
+run_name: silent-hog-222
+run_uuid: aafc8bbe2df2439ea072f2464bcaa512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748544718506
+status: 3
+tags: []
+user_id: Ali Computers

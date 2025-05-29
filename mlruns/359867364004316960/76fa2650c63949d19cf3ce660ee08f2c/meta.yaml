@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/mlflow-experiments-tracking/mlruns/359867364004316960/76fa2650c63949d19cf3ce660ee08f2c/artifacts
+end_time: 1748544287480
+entry_point_name: ''
+experiment_id: '359867364004316960'
+lifecycle_stage: active
+run_id: 76fa2650c63949d19cf3ce660ee08f2c
+run_name: legendary-fly-331
+run_uuid: 76fa2650c63949d19cf3ce660ee08f2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748544287400
+status: 3
+tags: []
+user_id: Ali Computers

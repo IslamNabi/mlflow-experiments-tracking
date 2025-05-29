@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOps/mlflow-experiments-tracking/mlruns/359867364004316960/cd19a7e49d4246c08ba7dcea3cc3352e/artifacts
+end_time: 1748544286939
+entry_point_name: ''
+experiment_id: '359867364004316960'
+lifecycle_stage: active
+run_id: cd19a7e49d4246c08ba7dcea3cc3352e
+run_name: rumbling-shark-841
+run_uuid: cd19a7e49d4246c08ba7dcea3cc3352e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748544286839
+status: 3
+tags: []
+user_id: Ali Computers
